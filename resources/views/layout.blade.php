@@ -38,7 +38,7 @@
             >
         </li>
         <li>
-            <a href="login.html" class="hover:text-laravel"
+            <a href="/" class="hover:text-laravel"
             ><i class="fa-solid fa-arrow-right-to-bracket"></i>
                 Login</a
             >
