@@ -1,5 +1,22 @@
+# Laravel Job Management System
 
-## Usage
+This project allows users to manage job listings, perform CRUD operations, and filter jobs based on specific criteria. The project also includes authentication functionality for secure access.
+
+## Features
+
+- **Authentication:** User registration, login, and password management.
+- **Job CRUD Operations:** Create, Read, Update, and Delete job listings.
+- **Job Filtering:** Filter job listings based on various criteria such as job title, location, and job type.
+- **User Roles:** Different user roles for managing jobs and viewing listings.
+
+## Prerequisites
+
+Before running this project, make sure you have the following installed:
+
+- **PHP** (version 8.0 or higher)
+- **Laravel** (version 9.x or higher)
+- **Composer** (for managing PHP dependencies)
+- **MySQL** or another compatible database server
 
 ### Database Setup
 This app uses MySQL. To use something different, open up config/Database.php and change the default driver.
